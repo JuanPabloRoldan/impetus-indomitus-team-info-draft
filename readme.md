@@ -1,66 +1,204 @@
-# Computational Physics @ GT Group Documentation
+# IMPETUS INDOMITUS @ UV Team Documentation
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-Computational%20Physics-b3a369)](https://comp-physics.group)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Universidad del Valle](https://img.shields.io/badge/Universidad%20del%20Valle-IMPETUS%20INDOMITUS-b3a369)](https://sites.google.com/correounivalle.edu.co/impetusindomitus/home)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-Welcome to the Computational Physics @ GT Group Documentation! This repository contains guidelines, expectations, and resources for group members.
+---
 
-## 📚 Quick Navigation
+Welcome to the **IMPETUS INDOMITUS** research team documentation.  
+This repository contains guidelines, expectations, and resources for current members and students interested in joining the team.
 
-- [Welcome to the group!](group-syllabus/intro-to-group.md)
-- [FAQ - Frequently Asked Questions](group-syllabus/faq.md)
+Bienvenid@ a la documentación del equipo de investigación IMPETUS INDOMITUS.
+Este repositorio contiene lineamientos, expectativas y recursos para los miembros actuales y para estudiantes interesados en unirse al equipo.
 
-## 🎓 Syllabus
+**This documentation is available in both English and Spanish.**  
+**Esta documentación está disponible en inglés y en español.**
+
+---
+
+# 🇺🇸 ENGLISH VERSION
+
+---
+
+## 🔬 About the Team
+
+IMPETUS INDOMITUS is a research team within the **Faculty of Mechanical Engineering at Universidad del Valle**, located in Santiago de Cali, Colombia.
+
+Our work focuses on:
+
+- Energy conversion systems  
+- Propulsion systems  
+- Transportation technologies  
+- Theoretical and technological development in engineering sciences  
+
+We are committed to rigorous research, professional development, and service to our community.
+
+---
+
+## 🎯 Mission, Vision & Principles
+
+**Mission**  
+To serve our community by solving engineering problems through innovative and rigorous approaches in energy conversion, propulsion, and transportation.
+
+**Vision**  
+To grow into a Research School recognized for strong theoretical and technological contributions in our areas of expertise.
+
+**Principles**
+
+1. We exist to serve.  
+2. We conduct research to serve our community.  
+3. We work as a team with respect, professionalism, and humility.  
+
+---
+
+# 🎓 Undergraduate Students
 
 | Topic | Description |
-|-------|-------------|
-| [Why a Ph.D.?](group-syllabus/why-phd.md) | Understanding the purpose and value of doctoral studies |
-| [Funding](group-syllabus/funding.md) | Information about funding sources and expectations |
-| [Working with me](group-syllabus/working-with-me.md) | Expectations and guidelines for advisor-student relationship |
-| [Doing research](group-syllabus/doing-research.md) | Approaches to computational physics research |
-| [Publishing](group-syllabus/publishing.md) | Guidelines for academic publishing |
-| [When and where of working](group-syllabus/when-where-working.md) | Expectations about work schedule and location |
-| [Going to conferences](group-syllabus/going-to-conferences.md) | How to prepare for and attend academic conferences |
-| [Giving talks](group-syllabus/giving-talks.md) | Guidelines for effective research presentations |
-| [Challenges](group-syllabus/challenges.md) | Common challenges and how to address them |
+|-------|------------|
+| [Technical Skills](undergraduate/technical-skills.md) | Programming, simulation, and analytical tools commonly used in the group |
+| [Projects](undergraduate/projects-overview.md) | Ongoing and past student projects / competitions |
+| [Getting Involved in Research](undergraduate/research-overview.md) | How to join the team and begin research activities |
+| [Capstone Overview](undergraduate/capstone-overview.md) | Structure and expectations for the Capstone Project (Trabajo de Grado) |
+| [Thesis & Defense](undergraduate/thesis-defense.md) | Guidelines for writing and oral defense |
+| [Path to Graduate School](undergraduate/path-to-grad.md) | Continuing into postgraduate studies within the team |
 
-## ✍️ Papers and Writing
+Undergraduate students are expected to progressively develop independence, technical rigor, and professional communication skills.
+
+---
+
+# 👨‍🔬 Graduate Students
+
+| Topic | Description |
+|-------|------------|
+| [Why Graduate School?](graduate/why-grad.md) | Understanding the purpose and value of postgraduate study |
+| [Graduate Overview](graduate/overview.md) | Expectations for M.S. and future Ph.D. students |
+| [Dual-Degree Program (UV + ERAU)](graduate/dual-degree.md) | Structure, requirements, and international collaboration |
+| [Publishing & Presenting](graduate/publishing.md) | Conferences, journals, and professional dissemination |
+| [Mentorship & Leadership](graduate/mentorship.md) | Supporting undergraduate researchers and contributing to team growth |
+
+Graduate students are expected to demonstrate research independence, intellectual leadership, and commitment to publication-quality work.
+
+---
+
+# ✍️ Papers & Writing
 
 | Resource | Description |
-|----------|-------------|
-| [Academic writing](group-syllabus/improving-your-writing.md) | Improving your scientific writing skills |
-| [Formatting your documents](group-syllabus/formatting.md) | Standards for document formatting |
-| [Making figures](group-syllabus/figures.md) | Creating effective scientific figures |
-| [Responding to reviewers](group-syllabus/responding-to-reviewers.md) | How to handle peer review feedback |
+|----------|------------|
+| [Academic Writing Guide](writing/academic-writing.md) | Developing clarity, structure, and rigor in technical writing |
+| [LaTeX Templates](writing/latex.md) | Formatting standards for reports, theses, and papers |
+| [Figures & Visualization](writing/figures.md) | Best practices for scientific graphics and data presentation |
+| [Responding to Reviewers](writing/rebuttal.md) | Strategies for handling peer review feedback |
 
-## 💻 Details
+Clear communication is a core expectation of all team members.
+
+---
+
+# 💻 Details
 
 | Resource | Description |
-|----------|-------------|
-| [Undergraduate specifics](group-syllabus/undergraduate-specifics.md) | Information specific to undergraduate researchers |
-| [Available computers](group-syllabus/computers.md) | Computing resources available to group members |
-| [Whose hardware is this, anyway?](group-syllabus/hardware.md) | Hardware ownership and policies |
+|----------|------------|
+| [Lab Equipment](details/lab-equipment.md) | Equipment available for projects and research |
+| [Software](details/software.md) | Licensed tools and commonly used programs |
+| [Code Standards](details/code-standards.md) | Reproducibility, documentation, and version control practices |
+| [Group Policies](details/policies.md) | Conduct, professionalism, and team expectations |
 
-## 📝 Templates
+---
 
-| Template | Description |
-|----------|-------------|
-| [For papers](templates/paper) | Templates for academic papers |
-| [For responses to paper reviews](templates/paper_rebuttal) | Templates for responding to reviewers |
-| [For figures](templates/paper/figures) | Templates for creating figures |
-| [For talks](templates/talks) | Templates for presentations |
+# 👏 Acknowledgements
 
-## 🤝 Contributing
+This documentation is heavily inspired by and adapted from the group documentation of the Computational Physics Group led by [Spencer Bryngelson](https://github.com/comp-physics/group-docs).
 
-This repository is designed to be collaborative. Current and former students are encouraged to contribute improvements, corrections, and additions based on their experiences.
+---
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to suggest changes or add content.
+# 🇨🇴 VERSIÓN EN ESPAÑOL
 
-## 👏 Acknowledgements
+---
 
-Parts of this are borrowed, heavily edited, from the Ph.D. syllabi of [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM) and Mor Maaman.
+## 🔬 Sobre el Equipo
 
-## 📄 License
+IMPETUS INDOMITUS es un equipo de investigación perteneciente a la **Facultad de Ingeniería Mecánica de la Universidad del Valle**, ubicado en Santiago de Cali, Colombia.
 
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - Creative Commons Attribution-NonCommercial 4.0 International
+Nuestro trabajo se enfoca en:
+
+- Sistemas de conversión de energía  
+- Sistemas de propulsión  
+- Tecnologías de transporte  
+- Desarrollo teórico y tecnológico en las ciencias de la ingeniería  
+
+Estamos comprometidos con la investigación rigurosa, el desarrollo profesional y el servicio a nuestra comunidad.
+
+---
+
+## 🎯 Misión, Visión y Principios
+
+**Misión**  
+Servir a nuestra comunidad resolviendo problemas de ingeniería mediante enfoques innovadores y rigurosos en conversión de energía, propulsión y transporte.
+
+**Visión**  
+Convertirnos en una Escuela de Investigación reconocida por sus contribuciones teóricas y tecnológicas en nuestras áreas de especialidad.
+
+**Principios**
+
+1. Existimos para servir.  
+2. Investigamos para servir a nuestra comunidad.  
+3. Trabajamos en equipo con respeto, profesionalismo y humildad.  
+
+---
+
+# 🎓 Estudiantes de Pregrado
+
+| Tema | Descripción |
+|------|------------|
+| [Habilidades Técnicas](es/pregrado/technical-skills.md) | Herramientas de programación, simulación y análisis que se utilizan |
+| [Proyectos](es/pregrado/projects-overview.md) | Proyectos y competencias actuales y anteriores |
+| [Cómo Vincularse a Investigación](es/pregrado/research-overview.md) | Proceso para unirse al equipo e iniciar actividades de investigación |
+| [Trabajo de Grado](es/pregrado/capstone-overview.md) | Estructura y expectativas del proyecto de grado |
+| [Tesis y Sustentación](es/pregrado/thesis-defense.md) | Lineamientos para la escritura y defensa oral |
+| [Camino al Posgrado](es/pregrado/path-to-grad.md) | Continuidad académica dentro del equipo |
+
+Se espera que los estudiantes de pregrado desarrollen progresivamente independencia, rigor técnico y habilidades de comunicación profesional.
+
+---
+
+# 👨‍🔬 Estudiantes de Posgrado
+
+| Tema | Descripción |
+|------|------------|
+| [¿Por qué estudiar posgrado?](es/posgrado/why-grad.md) | Comprender el propósito y el valor de la formación avanzada |
+| [Introducción al Posgrado](es/posgrado/overview.md) | Expectativas para estudiantes de Maestría y futuro Doctorado |
+| [Programa de Doble Titulación (UV + ERAU)](es/posgrado/dual-degree.md) | Estructura, requisitos y colaboración internacional |
+| [Publicación y Presentación](es/posgrado/publishing.md) | Conferencias, revistas y divulgación profesional |
+| [Mentoría y Liderazgo](es/posgrado/mentorship.md) | Apoyo a estudiantes de pregrado y fortalecimiento del equipo |
+
+Se espera que los estudiantes de posgrado demuestren independencia investigativa, liderazgo intelectual y compromiso con trabajos de calidad publicable.
+
+---
+
+# ✍️ Escritura y Publicaciones
+
+| Recurso | Descripción |
+|---------|------------|
+| [Guía de Escritura Académica](es/writing/academic-writing.md) | Desarrollo de claridad, estructura y rigor en la escritura técnica |
+| [Plantillas LaTeX](es/writing/latex.md) | Estándares de formato para informes, tesis y artículos |
+| [Figuras y Visualización](es/writing/figures.md) | Buenas prácticas en gráficos y presentación de datos |
+| [Respuesta a Revisores](es/writing/rebuttal.md) | Estrategias para manejar la evaluación por pares |
+
+La comunicación clara y rigurosa es una expectativa fundamental para todos los miembros del equipo.
+
+---
+
+# 💻 Detalles
+
+| Recurso | Descripción |
+|---------|------------|
+| [Equipos de Laboratorio](es/details/lab-equipment.md) | Infraestructura disponible para proyectos e investigación |
+| [Software](es/details/software.md) | Licencias disponibles y programas comúnmente utilizados |
+| [Estándares de Código](es/details/code-standards.md) | Reproducibilidad, documentación y control de versiones |
+| [Políticas del Grupo](es/details/policies.md) | Conducta, profesionalismo y expectativas generales |
+
+---
+
+# 👏 Agradecimientos
+
+Esta documentación está inspirada y adaptada de la documentación del Computational Physics Group dirigido por [Spencer Bryngelson](https://github.com/comp-physics/group-docs).
