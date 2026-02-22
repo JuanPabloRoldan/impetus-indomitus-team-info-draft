@@ -1,85 +1,121 @@
-# Contributing to the Group Syllabus
+# Contributing to IMPETUS INDOMITUS Team Documentation
 
-Thank you for considering contributing to our research group syllabus!
-This document provides guidelines for students and collaborators who want to suggest improvements, fix errors, or add new content.
+Thank you for your interest in contributing to the IMPETUS INDOMITUS team documentation.
 
-## Why Contribute?
+This repository is maintained collaboratively and serves both undergraduate and graduate students within an international academic program. Contributions should therefore remain clear, professional, and bilingual.
 
-- **Improve the resource for everyone**: Your experiences and insights can help make this a better resource for current and future students.
-- **Develop your skills**: Contributing to documentation is valuable practice for academic and professional work.
-- **Build community**: Collaborative maintenance strengthens our research group.
+---
 
-## How to Contribute
+## General Expectations
 
-### For Small Changes (Typos, Minor Clarifications)
+When contributing, please:
 
-1. **Create an Issue**: 
-   - Go to the [Issues tab](https://github.com/comp-physics/group-docs/issues) and create a new issue
-   - Use a clear title and describe the change you're suggesting
-   - Label it appropriately (e.g., "typo", "clarification")
+- Follow the existing formatting and structure.
+- Maintain clarity and professionalism.
+- Keep content concise and well organized.
+- Provide both English and Spanish versions of any new content.
+- Ensure information is appropriate for both undergraduate and graduate audiences.
+- Avoid including confidential or sensitive information.
 
-2. **Direct Pull Request**:
-   - For simple changes, you can directly edit the file on GitHub
-   - Click the pencil icon on the file you want to edit
-   - Make your changes and create a pull request with a clear description
+---
 
-### For Larger Contributions (New Content, Major Revisions)
+## Types of Contributions
 
-1. **Discuss First**:
-   - Create an issue describing what you'd like to add or change
-   - Wait for feedback before investing significant time
+### Minor Edits (Typos, Small Clarifications)
 
-2. **Fork and Clone**:
-   - Fork the repository to your GitHub account
-   - Clone it to your local machine
-   - Create a new branch for your changes
+- Open an Issue describing the correction.
+- For simple fixes, you may submit a direct Pull Request with a clear explanation.
 
-3. **Make Changes**:
-   - Make your changes or additions
-   - Follow the existing style and formatting
-   - Add clear commit messages
+### Larger Contributions (New Sections or Major Revisions)
 
-4. **Submit a Pull Request**:
-   - Push your changes to your fork
-   - Create a pull request to the main repository
-   - Provide a clear description of the changes and why they're valuable
+1. Open an Issue describing your proposal.
+2. Wait for feedback before drafting extensive changes.
+3. Fork the repository and create a new branch.
+4. Submit a Pull Request including:
+   - A clear description of the changes
+   - The motivation for the update
+   - Both English and Spanish versions (when applicable)
 
-## Content Guidelines
+---
 
-When contributing content, please follow these guidelines:
+## Writing & Formatting
 
-1. **Be Clear and Concise**: Write in clear, straightforward language.
-2. **Be Accurate**: Verify information before submitting.
-3. **Follow Existing Structure**: Match the style and organization of existing documents.
-4. **Consider All Students**: Remember that this resource serves both PhD and undergraduate students.
-5. **Respect Confidentiality**: Don't include sensitive or private information.
+- Use consistent heading levels.
+- Match the tone and style of existing documents.
+- Use tables where appropriate.
+- Link to relevant internal pages when helpful.
+- Keep the documentation structured and easy to navigate.
 
-## Document Structure
-
-When creating or editing markdown files:
-
-- Use appropriate heading levels (# for title, ## for major sections, ### for subsections)
-- Include a table of contents for longer documents
-- Use bullet points and numbered lists for clarity
-- Link to other relevant documents when appropriate
+---
 
 ## Review Process
 
-After submitting a contribution:
+All submissions are reviewed before being merged.
 
-1. Spencer will review your submission
-2. You may receive feedback or requests for changes
-3. Once approved, your contribution will be merged
+You may receive feedback or suggestions for revision prior to approval.
 
-## Getting Help
+---
 
-If you're unsure about anything related to contributing:
+Thank you for helping strengthen our research team.
 
-- Contact Spencer directly
-- Post a question in the group Slack channel
+---
 
-## Recognition
+# Contribuir a la Documentación del Equipo IMPETUS INDOMITUS
 
-Contributors will be acknowledged in the repository. 
+Gracias por su interés en contribuir a la documentación del equipo IMPETUS INDOMITUS.
 
-Thank you for helping improve our group documentation! 
+Este repositorio se mantiene de manera colaborativa y sirve a estudiantes de pregrado y posgrado dentro de un programa académico con proyección internacional. Las contribuciones deben ser claras, profesionales y bilingües.
+
+---
+
+## Expectativas Generales
+
+Al contribuir, por favor:
+
+- Respete el formato y la estructura ya establecidos.
+- Mantenga claridad y profesionalismo.
+- Sea conciso y organizado.
+- Incluya versión en inglés y en español para cualquier contenido nuevo.
+- Verifique que la información sea adecuada para estudiantes de pregrado y posgrado.
+- Evite incluir información confidencial o sensible.
+
+---
+
+## Tipos de Contribuciones
+
+### Cambios Menores (Errores o Aclaraciones)
+
+- Abra un Issue describiendo la corrección.
+- Para ajustes simples, puede enviar directamente un Pull Request con una explicación clara.
+
+### Contribuciones Mayores (Nuevas Secciones o Revisiones Importantes)
+
+1. Abra un Issue describiendo su propuesta.
+2. Espere retroalimentación antes de desarrollar cambios extensos.
+3. Haga un fork del repositorio y cree una nueva rama.
+4. Envíe un Pull Request que incluya:
+   - Una descripción clara de los cambios
+   - La justificación de la actualización
+   - Versiones en inglés y español (cuando aplique)
+
+---
+
+## Escritura y Formato
+
+- Utilice niveles de encabezado consistentes.
+- Mantenga el tono y estilo de los documentos existentes.
+- Use tablas cuando sea apropiado.
+- Enlace a otras páginas internas cuando sea útil.
+- Mantenga la documentación estructurada y fácil de navegar.
+
+---
+
+## Proceso de Revisión
+
+Todas las contribuciones serán revisadas antes de ser integradas.
+
+Podrá recibir comentarios o solicitudes de ajuste antes de la aprobación final.
+
+---
+
+Gracias por fortalecer nuestro equipo de investigación.
