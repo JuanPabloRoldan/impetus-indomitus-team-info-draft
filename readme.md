@@ -48,7 +48,17 @@ To grow into a Research School recognized for strong theoretical and technologic
 
 1. We exist to serve.  
 2. We conduct research to serve our community.  
-3. We work as a team with respect, professionalism, and humility.  
+3. We work as a team with respect, professionalism, and humility.
+
+---
+
+## 👨‍🏫 The Advisor
+
+All undergraduate and graduate students in the IMPETUS INDOMITUS team work under the supervision of the team director, Guillermo Andrés Jaramillo Pizarro.
+
+Research supervision is a professional academic relationship grounded in mutual respect, responsibility, and high standards. Expectations regarding meetings, communication, independence, and professional conduct are outlined below:
+
+👉 [Working with the Advisor](details/working-with-advisor.md)
 
 ---
 
@@ -142,7 +152,17 @@ Convertirnos en una Escuela de Investigación reconocida por sus contribuciones 
 
 1. Existimos para servir.  
 2. Investigamos para servir a nuestra comunidad.  
-3. Trabajamos en equipo con respeto, profesionalismo y humildad.  
+3. Trabajamos en equipo con respeto, profesionalismo y humildad.
+
+---
+
+## 👨‍🏫 El Profesor Director
+
+Todos los estudiantes de pregrado y posgrado del equipo IMPETUS INDOMITUS trabajan bajo la supervisión del profesor principal, Guillermo Andrés Jaramillo Pizarro.
+
+La dirección de investigación es una relación académica profesional basada en el respeto mutuo, la responsabilidad y altos estándares. Las expectativas sobre reuniones, comunicación, independencia y conducta profesional se detallan a continuación:
+
+👉 [Trabajo con el Director de Tesis](details/working-with-advisor.md)
 
 ---
 
@@ -150,12 +170,12 @@ Convertirnos en una Escuela de Investigación reconocida por sus contribuciones 
 
 | Tema | Descripción |
 |------|------------|
-| [Habilidades Técnicas](es/pregrado/technical-skills.md) | Herramientas de programación, simulación y análisis que se utilizan |
-| [Proyectos](es/pregrado/projects-overview.md) | Proyectos y competencias actuales y anteriores |
-| [Cómo Vincularse a Investigación](es/pregrado/research-overview.md) | Proceso para unirse al equipo e iniciar actividades de investigación |
-| [Trabajo de Grado](es/pregrado/capstone-overview.md) | Estructura y expectativas del proyecto de grado |
-| [Tesis y Sustentación](es/pregrado/thesis-defense.md) | Lineamientos para la escritura y defensa oral |
-| [Camino al Posgrado](es/pregrado/path-to-grad.md) | Continuidad académica dentro del equipo |
+| [Habilidades Técnicas](undergraduate/technical-skills.md) | Herramientas de programación, simulación y análisis que se utilizan |
+| [Proyectos](undergraduate/projects-overview.md) | Proyectos y competencias actuales y anteriores |
+| [Cómo Vincularse a Investigación](undergraduate/research-overview.md) | Proceso para unirse al equipo e iniciar actividades de investigación |
+| [Trabajo de Grado](undergraduate/capstone-overview.md) | Estructura y expectativas del proyecto de grado |
+| [Tesis y Sustentación](undergraduate/thesis-defense.md) | Lineamientos para la escritura y defensa oral |
+| [Camino al Posgrado](undergraduate/path-to-grad.md) | Continuidad académica dentro del equipo |
 
 Se espera que los estudiantes de pregrado desarrollen progresivamente independencia, rigor técnico y habilidades de comunicación profesional.
 
@@ -165,11 +185,11 @@ Se espera que los estudiantes de pregrado desarrollen progresivamente independen
 
 | Tema | Descripción |
 |------|------------|
-| [¿Por qué estudiar posgrado?](es/posgrado/why-grad.md) | Comprender el propósito y el valor de la formación avanzada |
-| [Introducción al Posgrado](es/posgrado/overview.md) | Expectativas para estudiantes de Maestría y futuro Doctorado |
-| [Programa de Doble Titulación (UV + ERAU)](es/posgrado/dual-degree.md) | Estructura, requisitos y colaboración internacional |
-| [Publicación y Presentación](es/posgrado/publishing.md) | Conferencias, revistas y divulgación profesional |
-| [Mentoría y Liderazgo](es/posgrado/mentorship.md) | Apoyo a estudiantes de pregrado y fortalecimiento del equipo |
+| [¿Por qué estudiar posgrado?](graduate/why-grad.md) | Comprender el propósito y el valor de la formación avanzada |
+| [Introducción al Posgrado](graduate/overview.md) | Expectativas para estudiantes de Maestría y futuro Doctorado |
+| [Programa de Doble Titulación (UV + ERAU)](graduate/dual-degree.md) | Estructura, requisitos y colaboración internacional |
+| [Publicación y Presentación](graduate/publishing.md) | Conferencias, revistas y divulgación profesional |
+| [Mentoría y Liderazgo](graduate/mentorship.md) | Apoyo a estudiantes de pregrado y fortalecimiento del equipo |
 
 Se espera que los estudiantes de posgrado demuestren independencia investigativa, liderazgo intelectual y compromiso con trabajos de calidad publicable.
 
@@ -179,10 +199,10 @@ Se espera que los estudiantes de posgrado demuestren independencia investigativa
 
 | Recurso | Descripción |
 |---------|------------|
-| [Guía de Escritura Académica](es/writing/academic-writing.md) | Desarrollo de claridad, estructura y rigor en la escritura técnica |
-| [Plantillas LaTeX](es/writing/latex.md) | Estándares de formato para informes, tesis y artículos |
-| [Figuras y Visualización](es/writing/figures.md) | Buenas prácticas en gráficos y presentación de datos |
-| [Respuesta a Revisores](es/writing/rebuttal.md) | Estrategias para manejar la evaluación por pares |
+| [Guía de Escritura Académica](writing/academic-writing.md) | Desarrollo de claridad, estructura y rigor en la escritura técnica |
+| [Plantillas LaTeX](writing/latex.md) | Estándares de formato para informes, tesis y artículos |
+| [Figuras y Visualización](writing/figures.md) | Buenas prácticas en gráficos y presentación de datos |
+| [Respuesta a Revisores](writing/rebuttal.md) | Estrategias para manejar la evaluación por pares |
 
 La comunicación clara y rigurosa es una expectativa fundamental para todos los miembros del equipo.
 
@@ -192,10 +212,10 @@ La comunicación clara y rigurosa es una expectativa fundamental para todos los 
 
 | Recurso | Descripción |
 |---------|------------|
-| [Equipos de Laboratorio](es/details/lab-equipment.md) | Infraestructura disponible para proyectos e investigación |
-| [Software](es/details/software.md) | Licencias disponibles y programas comúnmente utilizados |
-| [Estándares de Código](es/details/code-standards.md) | Reproducibilidad, documentación y control de versiones |
-| [Políticas del Grupo](es/details/policies.md) | Conducta, profesionalismo y expectativas generales |
+| [Equipos de Laboratorio](details/lab-equipment.md) | Infraestructura disponible para proyectos e investigación |
+| [Software](details/software.md) | Licencias disponibles y programas comúnmente utilizados |
+| [Estándares de Código](details/code-standards.md) | Reproducibilidad, documentación y control de versiones |
+| [Políticas del Grupo](details/policies.md) | Conducta, profesionalismo y expectativas generales |
 
 ---
 
